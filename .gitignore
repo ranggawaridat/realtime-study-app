@@ -1,0 +1,19 @@
+# --- Lingkungan & Database ---
+.env
+*.db
+*.sqlite
+
+# --- Backend (Go) ---
+backend/study_server
+backend/study_server.exe
+
+# --- Frontend (Flutter) ---
+frontend/.dart_tool/
+frontend/.packages
+frontend/build/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+
+# --- OS Trash ---
+.DS_Store
+Thumbs.db

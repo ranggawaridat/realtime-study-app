@@ -2,8 +2,6 @@
 
 Sebuah aplikasi produktivitas berbasis **Real-time** yang dirancang untuk membantu pengguna fokus belajar bersama secara virtual. Dilengkapi dengan fitur Timer Pomodoro, Global Chat, dan Leaderboard kompetitif dengan antarmuka bergaya **Neon**.
 
-🌐 **Cobain Live Demo:** [realtime-study-app.wrdt.my.id](https://study-app.wrdt.my.id)
-
 Aplikasi ini menggunakan arsitektur **Monorepo**, di mana Backend (Golang) dan Frontend (Flutter) berada di dalam satu *repository*.
 
 ---
